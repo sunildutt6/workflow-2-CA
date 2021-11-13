@@ -10,11 +10,7 @@ You will need to create and configure a package.json file and install all necees
 
 Remember to add the appropriate entries to a `.gitignore` file.
 
-Use Parcel as the bundler.
-
-```
-parcel index.html
-```
+Used webpack bundler
 
 ## Level 1
 
