@@ -1,4 +1,8 @@
 .cache/
 dist/
 node_modules/
-README.me
+README.md/
+package-lock.json/
+webpack.config.js/
+tsconfig.json/
+babel.config.js/
